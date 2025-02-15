@@ -1,2 +1,2 @@
 # 100-days-python
-here we have our challange of 100 dyas of python from begining to advance 
+here we have our challenge of 100 days of python from beginning to advance 
